@@ -1,5 +1,3 @@
-//go:build mage
-
 package magefiles
 
 import "github.com/magefile/mage/sh"
