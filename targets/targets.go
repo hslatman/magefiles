@@ -1,4 +1,4 @@
-package magefiles
+package targets
 
 import "github.com/magefile/mage/sh"
 
